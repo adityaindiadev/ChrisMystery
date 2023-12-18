@@ -4,8 +4,8 @@ var quiz = {
     data: [
 
         {
-            // q: "What is the meaning of `Nile` ?",
-            q: "zzzz",
+            q: "What is the meaning of `Nile` ?",
+            // q: "zzzz",
             o: [
                 "River",
                 "Place",
@@ -16,8 +16,8 @@ var quiz = {
         },
 
         {
-            // q: "What is your Car No (Number Plate) ?",
-            q: "xxxxxx",
+            q: "What is your Car No (Number Plate) ?",
+            // q: "xxxxxx",
             o: [
                 "DL 5AF 5845",
                 "DL 5AF5845",
@@ -27,8 +27,8 @@ var quiz = {
             a: 3
         },
         {
-            // q: "How many employees are in Team ProH2R ?",
-            q: "yyyyy",
+            q: "How many employees are in `Team ProH2R` ?",
+            // q: "yyyyy",
             o: [
                 "15",
                 "12",
